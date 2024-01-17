@@ -1,9 +1,9 @@
 ---
 name: Kubernetes Support Request Template
-about: this template is being used to apply a help in performing a task in kubernetes repository
-  and its related system.
+about: this template is being used to apply a help in performing a task in kubernetes
+  repository and its related system.
 title: ''
-labels: help requestd, Kubernetes
+labels: help wanted, Kubernetes
 assignees: ''
 
 ---
